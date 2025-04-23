@@ -5,7 +5,7 @@ const browserVersion = 'Chrome';
 function getBrowserVersion() {
     // Check if the global browserVersion is 'Chrome'
     if (browserVersion === 'Chrome') {
-        // Declare a local variable named browserVersion within the if block
+        // Declare a local variable named browserVersion 
         let browserVersion = 'Local Chrome Version';
         // Print the local browserVersion
         console.log('Inside block:', browserVersion);
